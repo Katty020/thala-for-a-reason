@@ -89,7 +89,7 @@ function App() {
           {isthala === true ? (
             <h1>Thala for a reason</h1>
           ) : (
-            <h1>Naughty ho rha</h1>
+            <h1>Naughty ho rha hai keyyyy</h1>
           )}
         </label>
         <label className="text-white text-3xl">
