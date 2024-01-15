@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 This project was bootstrapped with Create React App.
+<br>
 Available Scripts
 In the project directory, you can run:
 
